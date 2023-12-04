@@ -1,4 +1,3 @@
-
 # TA33.2
 ## Ejercicio 1
 [Ejercicio 1](https://adriii28.github.io/agm-tsys-TA33.2-javascript-29112023/Ej1/index.html)
